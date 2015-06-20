@@ -1,7 +1,7 @@
 package com.myownproject1;
 
 public class primitiveDataTypesExam1 {
-
+//Main method
 	public static void main(String[] args) {
 		addition();	
 		substraction();
